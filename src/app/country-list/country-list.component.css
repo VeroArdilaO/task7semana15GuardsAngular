@@ -1,0 +1,19 @@
+p {
+    color: #ff0081;
+    text-decoration: none;
+    font-size: 2em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke: 1px black;
+}
+
+ul {
+    display: block;
+    text-align: center;
+    list-style: none;
+    font-size: 2em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-weight: bold;
+    line-height: 50px;
+}
