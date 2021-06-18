@@ -1,4 +1,4 @@
-# Task7semana15
+# Task 7 semana 15 Guards en Angular / CanActive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
@@ -10,3 +10,10 @@ Se simulo por medio de dos botones Autenticarse y Cerrar Sesión, el acceso a el
 
 paises en orden Alfabético.
 
+## Vista pantalla Principal
+
+<img src="/src/assets/img/Guards. Angular.PNG" alt= "Botones"> 
+
+## Vista al accerder al componente Lista de Países
+
+<img src="/src/assets/img/AccesoComponente.PNG. Angular.PNG" alt= "Paises"> 
