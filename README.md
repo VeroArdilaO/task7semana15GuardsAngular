@@ -16,4 +16,4 @@ paises en orden Alfabético.
 
 ## Vista al accerder al componente Lista de Países
 
-<img src="/src/assets/img/AccesoComponente.PNG. Angular.PNG" alt= "Paises"> 
+<img src="/src/assets/img/AccesoComponente.PNG" alt= "Paises"> 
