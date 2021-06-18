@@ -12,6 +12,6 @@ Se simulo por medio de dos botones Autenticarse y Cerrar Sesión, el acceso a el
 
 <img src="/src/assets/img/Guards. Angular.PNG" alt= "Botones"> 
 
-## Vista al accerder al componente Lista de Países
+## Vista al acceder al componente Lista de Países
 
 <img src="/src/assets/img/AccesoComponente.PNG" alt= "Paises"> 
